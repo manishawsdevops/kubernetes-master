@@ -33,3 +33,15 @@ Basically two certifications:
   - kubectl cluster-info
   - kubectl get nodes
 
+### Kubernetes Setup
+
+
+
+
+
+
+
+
+
+
+
