@@ -7,3 +7,4 @@ Basically two certifications:
 
 ### Terminology in Kubernetes
 
+PODS
